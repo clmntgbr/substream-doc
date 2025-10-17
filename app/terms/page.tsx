@@ -15,8 +15,8 @@ export default function TermsOfService() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-800 mb-4">1. Acceptance of Terms</h2>
             <p className="text-gray-700 leading-relaxed">
-              By accessing and using Substream (the "Service"), you accept and agree to be bound by the terms and provision of this agreement. If you
-              do not agree to these terms, please do not use the Service.
+              By accessing and using Substream (the &ldquo;Service&rdquo;), you accept and agree to be bound by the terms and provision of this
+              agreement. If you do not agree to these terms, please do not use the Service.
             </p>
           </section>
 
@@ -31,7 +31,7 @@ export default function TermsOfService() {
               <li>Use the materials for any commercial purpose or for any public display</li>
               <li>Attempt to reverse engineer any software contained on the Service</li>
               <li>Remove any copyright or other proprietary notations from the materials</li>
-              <li>Transfer the materials to another person or "mirror" the materials on any other server</li>
+              <li>Transfer the materials to another person or &ldquo;mirror&rdquo; the materials on any other server</li>
             </ul>
           </section>
 
@@ -91,9 +91,9 @@ export default function TermsOfService() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-800 mb-4">8. Disclaimer</h2>
             <p className="text-gray-700 leading-relaxed">
-              Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided
-              without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability,
-              fitness for a particular purpose, non-infringement or course of performance.
+              Your use of the Service is at your sole risk. The Service is provided on an &ldquo;AS IS&rdquo; and &ldquo;AS AVAILABLE&rdquo; basis.
+              The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of
+              merchantability, fitness for a particular purpose, non-infringement or course of performance.
             </p>
           </section>
 
