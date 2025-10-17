@@ -26,9 +26,6 @@ export default function PrivacyPolicy() {
             <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4">
               <li>Identity Data (name, username)</li>
               <li>Contact Data (email address)</li>
-              <li>Technical Data (IP address, browser type, device information)</li>
-              <li>Usage Data (how you use our application)</li>
-              <li>Profile Data (preferences, feedback)</li>
             </ul>
           </section>
 
@@ -39,8 +36,6 @@ export default function PrivacyPolicy() {
               <li>To provide and maintain our service</li>
               <li>To notify you about changes to our service</li>
               <li>To provide customer support</li>
-              <li>To gather analysis or valuable information to improve our service</li>
-              <li>To monitor the usage of our service</li>
               <li>To detect, prevent and address technical issues</li>
             </ul>
           </section>
